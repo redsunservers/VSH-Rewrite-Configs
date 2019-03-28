@@ -1,1 +1,1 @@
-# VSH-Rewrite-Config
+# VSH-Rewrite-Configs
