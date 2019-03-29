@@ -1,7 +1,7 @@
 # VSH-Rewrite-Configs
 
-This is a public repository for [redsun.tf](https://redsun.tf/) VSH-Rewrite configs. Currently have class/weapon balances and dome sizes for each maps.
-VSH-Rewrite main code is still private, meaning you can only use this to see current balances redsun uses, and discuss/update balances.
+This is a public repository for [redsun.tf](https://redsun.tf/) VSH Rewrite configs. Currently have class/weapon balances and dome sizes for each maps.
+VSH-Rewrite main code is still private, meaning you can only use this to see current balance infromation in use on the Red Sun servers, and discuss/update balances. You are free to fork this repository and send in pull requests for changes you feel would improve balance.
 
 ## How does this work?
 
@@ -11,7 +11,7 @@ Most of the time it uses weapon index to grab balances. If not found, it uses ge
 ## Contributing
 
 Everyone is free to create issues and pull requests here, whenever if it balance ideas, requests, or bugs related to config/repo itself.
-Bugs related to main code still goes to [LoadoutBugTracker](https://github.com/redsunservers/LoadoutBugTracker).
+Bugs related to main code still go to [LoadoutBugTracker](https://github.com/redsunservers/LoadoutBugTracker).
 
 When creating issue or pull request for weapon balances, you ideally want to have most of the following:
 - Put some thoughts into it, don't submit idea that appeared in your head for only like 2 seconds
