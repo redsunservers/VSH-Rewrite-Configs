@@ -14,13 +14,14 @@ Everyone is free to create issues and pull requests here, whenever if it balance
 Bugs related to main code still go to [LoadoutBugTracker](https://github.com/redsunservers/LoadoutBugTracker).
 
 When creating issue or pull request for weapon balances, you ideally want to have most of the following:
-- Put some thoughts into it, don't submit idea that appeared in your head for only like 2 seconds
-- List all weapon reskins index using `prefab`
+- Is suggested balances well, balanced to other available weapons while being unique in some way.
+- List all weapon reskins index using `prefab`.
 - Try limit yourself to only use `attrib`, `minicrit`/`crit` and existing `tags` to keep it easy without touching main code.
 - Request to add/modify new/existing tags is still allowed, but requires updating main code and can depend on how complex it takes to implement it.
-- Adding new convars should really only be needed if it general stuff, while not limited to specific weapons or slot
+- Adding new convars should really only be needed if it general stuff, while not limited to specific weapons or slot.
 
 ## Useful links
 - [VSH-Rewrite megathread discussion in redsun.tf forum](https://forum.redsun.tf/threads/2864/)
-- [List of all TF2 weapon indexs in tf2b.com](https://tf2b.com/itemlist.php)
+- [List of all TF2 weapon indexs in alliedmods wiki](https://wiki.alliedmods.net/Team_Fortress_2_Item_Definition_Indexes#Weapons)
 - [List of all TF2 attributes in tf2b.com](https://tf2b.com/attriblist.php)
+- [List of all TF2 conditions in teamfortress wiki](https://wiki.teamfortress.com/wiki/Cheats#addcond)
